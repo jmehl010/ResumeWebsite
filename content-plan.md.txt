@@ -1,0 +1,52 @@
+# Website content plan
+
+Target role or area: Software engineering internships and entry-level
+software engineering roles, with a focus on backend development
+
+Professional summary:
+Software Engineering student at the University of Michigan-Flint
+(B.S., May 2027) seeking a software engineering internship with a focus
+on backend development. I build projects in C++, Python, and JavaScript,
+from an Arduino-based plant monitoring system to an internal consumer
+sentiment tool developed at Kearney PERLab. I also bring leadership
+experience from managing a Domino's store, and I'm eager to keep
+learning in a collaborative team.
+
+Projects:
+1. Plant Watering & Monitoring System — designed and implemented the
+   full software architecture: sensor data collection, control logic,
+   real-time watering decisions, and RF communication between sensor
+   nodes and a central controller. C++, Arduino, IoT, RF modules
+2. Stock Tracker Device — built the software that fetches live market
+   data over REST APIs, parses it, and drives a local ticker display
+   on a microcontroller. Embedded C++, REST APIs
+3. Consumer Sentiment Tool (Kearney PERLab) — sole developer; designed
+   the analysis logic and built a working prototype that turns product
+   reviews into sentiment metrics, using OpenAI Codex to help translate
+   my logic into code; handed off to a colleague at the end of the
+   internship — HTML/Python
+   no public link (internal tool)
+
+Skills:
+- Languages: C++, Python, Java, JavaScript, C, SQL
+- Tools & Technologies: Git, GitHub, Linux/Unix, Arduino, REST APIs,
+  JSON parsing
+- Professional: team collaboration, leadership, problem solving
+
+Education:
+B.S. Software Engineering, University of Michigan-Flint,
+expected May 2027
+
+Experience:
+- Software Engineering Intern, Kearney PERLab (Chicago, IL),
+  June-July 2026
+- General Manager, Domino's (Auburn Hills, MI), promoted from delivery
+  driver; GM for ~1.5 years, with the company June 2019 - Jan 2023.
+  Led a team of 12, recruited and trained the full store staff, and
+  reduced labor costs by 10% through staffing and scheduling changes.
+- Academic team projects simulating professional environments
+
+Professional links:
+- GitHub: https://github.com/jmehl010
+- LinkedIn: https://www.linkedin.com/in/justin-mehl/
+- Email: mejustin@umich.edu
